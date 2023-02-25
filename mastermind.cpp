@@ -58,7 +58,6 @@ int main(){
     srand(time(0));
     int x;
     x = 1000 + (rand() % 1001);
-    cout<<x<<endl;
     int userGuess;
     cout << "please enter a pin : ";
     cin >>userGuess;
