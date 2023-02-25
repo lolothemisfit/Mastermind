@@ -1,4 +1,4 @@
-# Personal-projects
+# Mastermind
 
 This is a C++ project called mastermind. It is basically a game in which you are given a 4 digit pin that is randomly generated.
 You are given 10 chances to crack the pin.
